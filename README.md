@@ -37,6 +37,5 @@
   <li><i>Sprint içi puan değerlendirmesi </i></li>
   <li><i>Puan tamamlama mantığı;</i></li>
   <li><i>Görevlere ve proje hakkındaki fikir belirtilmesine Whatsapp üzerinden gerçekleştirilen görüşmelerle kararlaştırılmıştır.</i></li>
-  <li><i>Alaaddin Gürsoy - Developer</i></li>
-  <li><i>Aleyna Kara - Developer</i></li>
+  
 </ul>
