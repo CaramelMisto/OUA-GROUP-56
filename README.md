@@ -54,6 +54,11 @@
   <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/1d489cc7-5b8e-4e8c-af8d-7eedb40f45c6" width="auto">
   <h2>Ürün Durumu: </h2>
   <video controls source src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/65fb75b2-2c21-4338-b3e6-3b773899af59"</video>
+  <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/08f420c7-7b6f-4392-aa72-2d5261e79083" width="auto">
+    
+  <h2>Sprint Review: </h2>
+  
+  
 
 
 
