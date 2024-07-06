@@ -35,7 +35,7 @@
 <h2>SPRINT 1</h2>
 <ul>
   <li><i>Sprint içi puan değerlendirmesi :Proje boyunca tamamlanması gereken backlog puanı 25'dir. İlk Sprint için bitirilmesi istenilen puan sayısı 5 olarak belirlenmiştir ve hedefe ulaşılmıştır. </i></li>
-  <li><i>Puan tamamlama mantığı;</i></li>
+  <li><i>Puan tamamlama mantığı;tamamlanan görevler başına değerlendirme yapıldı.</i></li>
   <li><i>Projede üstlenilen roller hakkında toplantı yapılıp dağılım gerçekleştirildi.</i></li>
   <li><i>Karakterin özelliklerine karar verildi.</i></li>
   <li><i>Oyun hikayesi oluşturuldu ve oyunun amacı belirlendi.</i></li>
