@@ -52,5 +52,10 @@
   <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/02630460-8a83-49e4-a038-8936866d7e52" width="auto">
   <li><i>Product Backlog: </i></li>
   <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/1d489cc7-5b8e-4e8c-af8d-7eedb40f45c6" width="auto">
+  <h2>Ürün Durumu: </h2>
+  <video controls source src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/65fb75b2-2c21-4338-b3e6-3b773899af59"</video>
+
+
+
   
 </ul>
