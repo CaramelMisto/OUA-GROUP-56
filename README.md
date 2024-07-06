@@ -36,7 +36,21 @@
 <ul>
   <li><i>Sprint içi puan değerlendirmesi </i></li>
   <li><i>Puan tamamlama mantığı;</i></li>
+  <li><i>Projede üstlenilen roller hakkında toplantı yapılıp dağılım gerçekleştirildi.</i></li>
+  <li><i>Karakterin özelliklerine karar verildi.</i></li>
+  <li><i>Oyun hikayesi oluşturuldu ve oyunun amacı belirlendi.</i></li>
+  <li><i>Oyunda ilerledikçe güçlenildiği için değişen uzay araçları belirlendi.</i></li>
+  <li><i>Oyunun hyper casual tarzında olması kararlaştırıldı.</i></li>
+  <li><i>Oyunun kodlama ve yazılım kısımlarıyla ilgilenmek üzere görev paylaşımları yapıldı.</i></li>
   <li><i>Görevler ve proje hakkında kararlar için Whatsapp üzerinden bir grup kurulmuştur.</i></li>
   <li><i>Whatsapp toplantı alıntıları: </i></li>
+  <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/798e08cd-59b7-400f-9ade-f5d5bfd5e4f8" width="auto">
+  <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/25321651-fdec-4e7f-ab3e-df42f15f3ad5" width="auto">
+  <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/bb0e31a5-7d4b-4687-bd03-e4f2860ac435" width="auto">
+  <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/1f438189-72f0-4f6e-a78c-667d71411081" width="auto">
+  <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/9157b5db-8025-417c-ab15-4ca3abfd5972" width="auto">
+  <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/02630460-8a83-49e4-a038-8936866d7e52" width="auto">
+  <li><i>Product Backlog: </i></li>
+  <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/1d489cc7-5b8e-4e8c-af8d-7eedb40f45c6" width="auto">
   
 </ul>
