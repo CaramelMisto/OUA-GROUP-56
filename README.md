@@ -5,9 +5,9 @@
 <ul>
   <li><i>Ayça Akbel Ertaş - Scrum Master</i></li>
   <li><i>Ahmetcan Selek - Product Owner</i></li>
-  <li><i>Aslıhan Nar - Developer</i></li>
-  <li><i>Alaaddin Gürsoy - Developer</i></li>
   <li><i>Aleyna Kara - Developer</i></li>
+  <li><i>Alaaddin Gürsoy - Developer</i></li>
+  <li><i>Aslıhan Nar - Developer</i></li>
 </ul>
 
 <h2>Oyun İsmi</h2>
@@ -36,6 +36,7 @@
 <ul>
   <li><i>Sprint içi puan değerlendirmesi </i></li>
   <li><i>Puan tamamlama mantığı;</i></li>
-  <li><i>Görevlere ve proje hakkındaki fikir belirtilmesine Whatsapp üzerinden gerçekleştirilen görüşmelerle kararlaştırılmıştır.</i></li>
+  <li><i>Görevler ve proje hakkında kararlar için Whatsapp üzerinden bir grup kurulmuştur.</i></li>
+  <li><i>Whatsapp toplantı alıntıları: </i></li>
   
 </ul>
