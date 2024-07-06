@@ -34,7 +34,7 @@
 
 <h2>SPRINT 1</h2>
 <ul>
-  <li><i>Sprint içi puan değerlendirmesi </i></li>
+  <li><i>Sprint içi puan değerlendirmesi :Proje boyunca tamamlanması gereken backlog puanı 25'dir. İlk Sprint için bitirilmesi istenilen puan sayısı 5 olarak belirlenmiştir ve hedefe ulaşılmıştır. </i></li>
   <li><i>Puan tamamlama mantığı;</i></li>
   <li><i>Projede üstlenilen roller hakkında toplantı yapılıp dağılım gerçekleştirildi.</i></li>
   <li><i>Karakterin özelliklerine karar verildi.</i></li>
@@ -52,13 +52,20 @@
   <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/02630460-8a83-49e4-a038-8936866d7e52" width="auto">
   <li><i>Product Backlog: </i></li>
   <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/1d489cc7-5b8e-4e8c-af8d-7eedb40f45c6" width="auto">
+
   <li><i>Ürün Durumu: </i></li>
   <video controls source src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/65fb75b2-2c21-4338-b3e6-3b773899af59"</video>
   <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/08f420c7-7b6f-4392-aa72-2d5261e79083" width="auto">
-  <li><i>Sprint Review: </i></li>
+  </ul>
+    
+  <h2>Sprint Review:</h2>
+<ul>
   <li><i>Backgrounda, oyun tematiğine ve karakter özelliklerine karar kılındı. </i></li>
   <li><i>takımdaki herkes katılım sağladı. </i></li>
-  <li><i>Sprint Retrospective: </i></li>
+</ul>
+
+  <h2>Sprint Retrospective:</h2>
+  <ul>
   <li><i>Product owner kesinleşti. </i></li>
   <li><i>Tasarım ve kodlama görevleri şekil aldı. </i></li>
-</ul>
+  </ul>
