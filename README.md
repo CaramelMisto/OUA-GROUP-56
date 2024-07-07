@@ -43,6 +43,7 @@
   <li><i>Oyunun hyper casual tarzında olması kararlaştırıldı.</i></li>
   <li><i>Oyunun kodlama ve yazılım kısımlarıyla ilgilenmek üzere görev paylaşımları yapıldı.</i></li>
   <li><i>Görevler ve proje hakkında kararlar için Whatsapp üzerinden bir grup kurulmuştur.</i></li>
+  <li><i>Daily Scrumlar Whatsapp üzerinden yapılmıştır.</i>
   <li><i>Whatsapp toplantı alıntıları: </i></li>
   <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/798e08cd-59b7-400f-9ade-f5d5bfd5e4f8" width="auto">
   <img src="https://github.com/CaramelMisto/OUA-GROUP-56/assets/138470955/25321651-fdec-4e7f-ab3e-df42f15f3ad5" width="auto">
