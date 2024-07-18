@@ -70,3 +70,5 @@
   <li><i>Product owner kesinleşti. </i></li>
   <li><i>Tasarım ve kodlama görevleri şekil aldı. </i></li>
   </ul>
+  <h2>İlk ekran görüntüleri 2024-07-18</h2>
+![Ekran görüntüsü 2024-07-18 215940](https://github.com/user-attachments/assets/1a2d9782-225f-495b-87b1-7b8c34a4dab0)
