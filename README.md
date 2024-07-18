@@ -71,4 +71,5 @@
   <li><i>Tasarım ve kodlama görevleri şekil aldı. </i></li>
   </ul>
   <h2>İlk ekran görüntüleri 2024-07-18</h2>
-![Ekran görüntüsü 2024-07-18 215940](https://github.com/user-attachments/assets/1a2d9782-225f-495b-87b1-7b8c34a4dab0)
+<img src="https://github.com/user-attachments/assets/120729e6-f541-49ea-8a0c-9eb9ec7241c4"
+= width="auto">
