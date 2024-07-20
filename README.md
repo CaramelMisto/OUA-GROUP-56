@@ -70,6 +70,15 @@
   <li><i>Product owner kesinleşti. </i></li>
   <li><i>Tasarım ve kodlama görevleri şekil aldı. </i></li>
   </ul>
+
+<h2>SPRINT 2</h2>
+<ul>
+  <li>
+    <strong style="color: #000000;">Sprint içinde tamamlanması tahmin edilen puan:</strong>
+    <span style="color: #777777;">10 Puan</span>
+  </li>
+</ul>
+
   <h2>İlk ekran görüntüleri 2024-07-18</h2>
 <img src="https://github.com/user-attachments/assets/120729e6-f541-49ea-8a0c-9eb9ec7241c4"
 = width="auto">
