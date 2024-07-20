@@ -70,6 +70,47 @@
   <li><i>Product owner kesinleşti. </i></li>
   <li><i>Tasarım ve kodlama görevleri şekil aldı. </i></li>
   </ul>
-  <h2>İlk ekran görüntüleri 2024-07-18</h2>
-<img src="https://github.com/user-attachments/assets/120729e6-f541-49ea-8a0c-9eb9ec7241c4"
-= width="auto">
+
+<h2>SPRINT 2</h2>
+<ul>
+  <li>
+    <strong style="color: #000000;">Sprint İçinde Tamamlanması Tahmin Edilen Puan:</strong>
+    <span style="color: #777777;">10 Puan</span>
+  </li>
+  <li><strong style="color: #000000;">Daily Scrum:</strong>
+    <span style="color: #777777;">Daily Scrum toplantıları için whatsapp kullanıldı. Günlük yapılacak işler ve oyun için alınan kararlar tartışıldı. Oyun yapısı için yazılım kısmında yöntemler konuşuldu. Proje üstünde fikirler üretilerek herkes kendi fikirlerini söyledi. Fikirler içinden ortak kararla bir projede buluşuldu. Source tree yapısının kullanımının kolaylığı konuşuldu.Oyun Mobil üzerinde uygulanacağından sağ sol mekanizması tartışıldı. Ana karakter ikonu ve kötü karakter ikonları oluşturuldu. Gökyüzü ve koşu pisti şekillendi.</span> </li>
+  <li>  
+  <strong style="color: #000000;">Toplantı ve Whatsapp Görüntüleri:</strong>
+  <img src="https://github.com/user-attachments/assets/83d5993d-6d56-442b-b3d3-8a7d6a62cc66" width="auto">
+  <img src="https://github.com/user-attachments/assets/dc64d559-ae66-4e2d-b0d0-73e31266f8d7" width="auto">
+  <img src="https://github.com/user-attachments/assets/741ad090-8344-48ef-9a86-8de472909287" width="auto">
+  <img src="https://github.com/user-attachments/assets/8f62642d-2dbb-48fa-b8ff-dcb0b8c5f54d" width="auto">
+  <img src="https://github.com/user-attachments/assets/b31b3127-3368-4953-a3ba-c4bc25d4f6ed" width="auto">  
+</li>
+   <li>
+    <strong style="color: #000000;">Sprint 2 Board Güncellemesi:</strong>
+    <span style="color: #777777;">Sprint 2 Board Görüntüsü</span>
+    <img src="" width="auto">  
+  </li>
+  <li>
+    <strong style="color: #000000;">Proje Durumu:</strong>
+    <span style="color: #777777;">Ürün Görselleri</span>
+    <img src="https://github.com/user-attachments/assets/120729e6-f541-49ea-8a0c-9eb9ec7241c4"= width="auto">
+    <img src="" width="auto">  
+  </li>
+     <li>
+    <strong style="color: #000000;">Sprint Review:</strong>
+    <span style="color: #777777;"> Sprint 2 sonucunda takımla konuşuldu. Oyunun sistematiğinde alınan bazı kararlar değiştirildi. Güncellemeler ve değişimler oyuna entegre edildi. Github ve Unity kullanımında bilgiler paylaşıldı.</span>
+    <li><span style="color: #777777;">Katılımcılar: Ayça Akbel Ertaş, Ahmetcan Selek, Aleyna Kara, Alaaddin Gürsoy, Aslıhan Nar</span></li>   
+  </li>
+   </li>
+     <li>
+    <strong style="color: #000000;">Sprint Retrospective:</strong>
+    <span style="color: #777777;"> </span>
+    <li><span style="color: #777777;"></span></li> 
+    <li><span style="color: #777777;"></span></li> 
+    <li><span style="color: #777777;"></span></li> 
+  </li>
+</ul>
+
+
