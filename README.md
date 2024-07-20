@@ -77,6 +77,17 @@
     <strong style="color: #000000;">Sprint içinde tamamlanması tahmin edilen puan:</strong>
     <span style="color: #777777;">10 Puan</span>
   </li>
+  <li><strong style="color: #000000;">Daily Scrum:</strong>
+    <span style="color: #777777;">Daily Scrum toplantıları için whatsapp kullanıldı. Günlük yapılacak işler ve oyun için alınan kararlar tartışıldı. Oyun yapısı için yazılım kısmında yöntemler konuşuldu. Proje üstünde fikirler üretilerek herkes kendi fikirlerini söyledi. Fikirler içinden ortak kararla bir projede buluşuldu.</span> </li>
+  <li>  
+  <strong style="color: #000000;">Toplantı ve Whatsapp görüntüleri:</strong>
+  <img src="" width="auto">
+  <img src="" width="auto">
+  <img src="" width="auto">
+  <img src="" width="auto">
+  <img src="" width="auto">
+  <img src="" width="auto">
+</li>
 </ul>
 
   <h2>İlk ekran görüntüleri 2024-07-18</h2>
