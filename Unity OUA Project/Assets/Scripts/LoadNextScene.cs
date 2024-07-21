@@ -7,17 +7,6 @@ public class LoadNextScene : MonoBehaviour
 {
     public void OnButtonClick()
     {
-        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-
-        int nextSceneIndex = currentSceneIndex + 1;
-
-        if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
-        {
-            SceneManager.LoadScene(nextSceneIndex);
-        }
-        else
-        {
-            Debug.LogWarning("There is no next scene defined in the build settings.");
-        }
+        SceneManager.LoadScene("Gameplay");
     }
 }
