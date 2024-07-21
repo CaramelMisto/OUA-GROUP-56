@@ -90,13 +90,14 @@
    <li>
     <strong style="color: #000000;">Sprint 2 Board Güncellemesi:</strong>
     <span style="color: #777777;">Sprint 2 Board Görüntüsü</span>
-    <img src="" width="auto">  
+    <img src="https://github.com/user-attachments/assets/b22580f6-ee41-42f8-8325-69dfc8b61eaf" width="auto">  
   </li>
   <li>
     <strong style="color: #000000;">Proje Durumu:</strong>
     <span style="color: #777777;">Ürün Görselleri</span>
     <img src="https://github.com/user-attachments/assets/120729e6-f541-49ea-8a0c-9eb9ec7241c4"= width="auto">
-    <img src="" width="auto">  
+    <img src="https://github.com/user-attachments/assets/e472001a-4eea-446f-9e36-ab32da63fd7d"width="auto">  
+    <video controls source src="https://github.com/user-attachments/assets/93e3422e-d4a7-41c2-8c37-0b4d5618f72d"</video>
   </li>
      <li>
     <strong style="color: #000000;">Sprint Review:</strong>
@@ -106,10 +107,10 @@
    </li>
      <li>
     <strong style="color: #000000;">Sprint Retrospective:</strong>
-    <span style="color: #777777;"> </span>
-    <li><span style="color: #777777;"></span></li> 
-    <li><span style="color: #777777;"></span></li> 
-    <li><span style="color: #777777;"></span></li> 
+    <span style="color: #777777;"> Karakter ikonunun rengi mavi siyah olarak düşünüldü, sonraki fikirlerle beyaz olmasına karar verildi. </span>
+    <li><span style="color: #777777;">Koşu pisti düz olması düşünüldü, sonra daha estetik bir yol seçildi.</span></li> 
+    <li><span style="color: #777777;">Oyun yapısında kontrol sisteminde sağ sol mekanizması değişti.</span></li> 
+    <li><span style="color: #777777;">Engeller ve ödüllerde şekil değişimine gidildi.</span></li> 
   </li>
 </ul>
 
