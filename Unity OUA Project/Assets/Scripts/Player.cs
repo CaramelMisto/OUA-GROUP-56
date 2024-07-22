@@ -8,6 +8,8 @@ public class Player : MonoBehaviour
 
     [SerializeField] private Joystick joystick;
 
+    [SerializeField] private Transform astranoutTransform;
+
     [SerializeField] private float forwardSpeed;
     [SerializeField] private float leftRightSpeed;
 
@@ -18,10 +20,11 @@ public class Player : MonoBehaviour
         _rb = GetComponent<Rigidbody>();
     }
 
-    // Update is called once per frame
     private void Update()
     {
         transform.position = new Vector3(Mathf.Clamp(transform.position.x, MinMaxX.x, MinMaxX.y), transform.position.y, transform.position.z);
         _rb.velocity = new Vector3(joystick.Horizontal* leftRightSpeed * Time.deltaTime, _rb.velocity.y, forwardSpeed* Time.deltaTime);
+
+        astranoutTransform.rotation = Quaternion.Euler(0,joystick.Horizontal*45, 0);
     }
 }
