@@ -18,9 +18,17 @@ public class Engel_Olusturucu : MonoBehaviour
     {
         float randomValue = Random.value;
 
-        if (randomValue < 0.5f)
+        if (randomValue < 0.2f)
         {
-            Instantiate(SabitEngel, new Vector3(randomValue*12-3, 0, 50), Quaternion.identity);
+            Instantiate(SabitEngel, new Vector3(-3, 0, 50), Quaternion.identity);
+        }
+        else if (randomValue < 0.4f) 
+        {
+            Instantiate(SabitEngel, new Vector3(0, 0, 50), Quaternion.identity);
+        }
+        else if (randomValue < 0.6f) 
+        {
+            Instantiate(SabitEngel, new Vector3(3, 0, 50), Quaternion.identity);
         }
         else
         {
