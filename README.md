@@ -74,8 +74,13 @@
 <h2>SPRINT 2</h2>
 <ul>
   <li>
+    <strong style="color: #000000;">Sprint Notları:</strong>
+    <span style="color: #777777;">Bu siprintte oyunun mekanizması, karakter şekil ve tasarımı ve oyun tema tasarımı kesin olarak oluşturulması amaçlanmıştır.</span>
+  </li>
+  <li>
     <strong style="color: #000000;">Sprint İçinde Tamamlanması Tahmin Edilen Puan:</strong>
     <span style="color: #777777;">10 Puan</span>
+    <span style="color: #777777;">Puanlama mantığını tamamlananması planan görevler üzerinden planladık. Görevlerin tümü yapıldı.</span>
   </li>
   <li><strong style="color: #000000;">Daily Scrum:</strong>
     <span style="color: #777777;">Daily Scrum toplantıları için whatsapp kullanıldı. Günlük yapılacak işler ve oyun için alınan kararlar tartışıldı. Oyun yapısı için yazılım kısmında yöntemler konuşuldu. Proje üstünde fikirler üretilerek herkes kendi fikirlerini söyledi. Fikirler içinden ortak kararla bir projede buluşuldu. Source tree yapısının kullanımının kolaylığı konuşuldu.Oyun Mobil üzerinde uygulanacağından sağ sol mekanizması tartışıldı. Ana karakter ikonu ve kötü karakter ikonları oluşturuldu. Gökyüzü ve koşu pisti şekillendi.</span> </li>
