@@ -2,37 +2,48 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Engel_Olusturucu : MonoBehaviour
-{
-    public GameObject SabitEngel;
-    public GameObject HareketliEngel;
-
-    [SerializeField] public float engelZamani = 5f;
-
-    void Start()
+namespace GameManager{
+    public class Engel_Olusturucu : MonoBehaviour
     {
-        InvokeRepeating("InstantiatePrefab", 0f, engelZamani);
-    }
+        public GameObject SabitEngel;
+        public GameObject HareketliEngel;
 
-    void InstantiatePrefab()
-    {
-        float randomValue = Random.value;
+        [SerializeField] public static float engelZamani = 5f;
 
-        if (randomValue < 0.2f)
+        private float timer;
+
+        void Update()
         {
-            Instantiate(SabitEngel, new Vector3(-3, 0, 50), Quaternion.identity);
+            timer += Time.deltaTime;
+
+            if (timer >= engelZamani)
+            {
+                InstantiatePrefab();
+
+                timer = 0f;
+            }
         }
-        else if (randomValue < 0.4f) 
+
+        void InstantiatePrefab()
         {
-            Instantiate(SabitEngel, new Vector3(0, 0, 50), Quaternion.identity);
-        }
-        else if (randomValue < 0.6f) 
-        {
-            Instantiate(SabitEngel, new Vector3(3, 0, 50), Quaternion.identity);
-        }
-        else
-        {
-            Instantiate(HareketliEngel, new Vector3(0, 0, 50), Quaternion.identity);
+            float randomValue = Random.value;
+
+            if (randomValue < 0.2f)
+            {
+                Instantiate(SabitEngel, new Vector3(-3, 0, 50), Quaternion.identity);
+            }
+            else if (randomValue < 0.4f)
+            {
+                Instantiate(SabitEngel, new Vector3(0, 0, 50), Quaternion.identity);
+            }
+            else if (randomValue < 0.6f)
+            {
+                Instantiate(SabitEngel, new Vector3(3, 0, 50), Quaternion.identity);
+            }
+            else
+            {
+                Instantiate(HareketliEngel, new Vector3(0, 0, 50), Quaternion.identity);
+            }
         }
     }
 }

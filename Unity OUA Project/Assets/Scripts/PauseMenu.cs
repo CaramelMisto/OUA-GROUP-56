@@ -6,8 +6,10 @@ using UnityEngine.SceneManagement;
 public class PauseMenu : MonoBehaviour
 {
     [SerializeField] GameObject pauseMenu;
+    private float savedTimeScale = 1f;
     public void Pause() { 
         pauseMenu.SetActive(true);
+        savedTimeScale=Time.timeScale;
         Time.timeScale = 0f;
     }
 
@@ -18,7 +20,7 @@ public class PauseMenu : MonoBehaviour
 
     public void Resume() {
         pauseMenu.SetActive(false);
-        Time.timeScale = 1f;
+        Time.timeScale = savedTimeScale;
     }
 
     public void Restart() {
