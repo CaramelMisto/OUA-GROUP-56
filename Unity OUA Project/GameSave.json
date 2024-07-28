@@ -1,0 +1,14 @@
+{
+    "lastScore": 26,
+    "highScore": 106,
+    "coins": 11,
+    "owningChars": [
+        true,
+        true,
+        false,
+        false
+    ],
+    "selectedChar": 0,
+    "moveSpeed": 4.0,
+    "engelZamani": 5.0
+}

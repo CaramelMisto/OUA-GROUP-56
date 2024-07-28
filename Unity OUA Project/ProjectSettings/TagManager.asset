@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Trigger
   - Engel
+  - Coin
   layers:
   - Default
   - TransparentFX

@@ -11,9 +11,7 @@ namespace GameManager{
         [SerializeField] float ScoreSpeed = 4;
         private int scorePoints = 0;
         [SerializeField] TextMeshProUGUI scoreTxt;
-
-        private string filePath = "GameSave.txt";
-
+            
         void Start()
         {
             InvokeRepeating("InstantiatePrefab", 0f, 1 / ScoreSpeed);
@@ -34,28 +32,15 @@ namespace GameManager{
         void OnDestroy()
         {
             SaveHighScore();
+            Savings.Save();
         }
         public void SaveHighScore()
         {
-            int HighScore = LoadHighScore();
+            if (scorePoints > Savings.savedObject.highScore)
+                Savings.savedObject.highScore = scorePoints;
 
-            if (scorePoints > HighScore)
-                HighScore = scorePoints;
-
-            File.WriteAllText(filePath, scorePoints.ToString() + "\n" + HighScore.ToString());
+            Savings.savedObject.lastScore = scorePoints;
         }
 
-        public int LoadHighScore()
-        {
-            int highScore = 0;
-
-            if (File.Exists(filePath))
-            {
-                string[] scoreString = File.ReadAllText(filePath).Split("\n");
-                int.TryParse(scoreString[1], out highScore);
-            }
-
-            return highScore;
-        }
     }
 }

@@ -1,10 +1,16 @@
+using GameManager;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Move : MonoBehaviour
 {
-    [SerializeField] float moveSpeed;
+    float moveSpeed;
+
+    private void Start()
+    {
+        moveSpeed = Savings.savedObject.moveSpeed;
+    }
 
     void Update()
     {

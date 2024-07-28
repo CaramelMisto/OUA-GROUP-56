@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Engel : MonoBehaviour
+public class CoinScript : MonoBehaviour
 {
     float moveSpeed;
 
@@ -12,24 +12,17 @@ public class Engel : MonoBehaviour
     {
         moveSpeed = Savings.savedObject.moveSpeed;
     }
-
     void Update()
     {
-
         transform.position += new Vector3(0, 0, moveSpeed * -1) * Time.deltaTime;
-
     }
 
-    private void OnTriggerEnter(Collider other)
+    /*private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("Player")) 
-        { 
-            LoadGameOverScene();
+        if (other.gameObject.CompareTag("Player"))
+        {
+            Destroy(transform.root.gameObject);
         }
-    }
+    }*/
 
-    private void LoadGameOverScene()
-    {
-        SceneManager.LoadScene("GameOverScene");
-    }
 }
