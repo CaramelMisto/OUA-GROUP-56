@@ -61,12 +61,12 @@ namespace GameManager
 
     public class SaveObject
     {
-        public int lastScore;
-        public int highScore;
-        public int coins;
-        public bool[] owningChars;
-        public int selectedChar;
-        public float moveSpeed;
-        public float engelZamani;
+        public int lastScore = 0;
+        public int highScore = 0;
+        public int coins = 0;
+        public bool[] owningChars = new bool[4] {true,false,false,false};
+        public int selectedChar = 0;
+        public float moveSpeed = 4.0f;
+        public float engelZamani = 5.0f;
     }
 }
