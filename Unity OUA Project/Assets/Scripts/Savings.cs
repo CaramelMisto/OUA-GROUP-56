@@ -42,6 +42,8 @@ namespace GameManager
                     SaveObject saveObject = JsonUtility.FromJson<SaveObject>(json);
                     Debug.Log("Game loaded successfully.");
                     savedObject = saveObject;
+                    if(savedObject==null)
+                        savedObject = new SaveObject();
                 }
                 else
                 {
@@ -66,7 +68,7 @@ namespace GameManager
         public int coins = 0;
         public bool[] owningChars = new bool[4] {true,false,false,false};
         public int selectedChar = 0;
-        public float moveSpeed = 4.0f;
+        public float moveSpeed = 6.0f;
         public float engelZamani = 5.0f;
     }
 }

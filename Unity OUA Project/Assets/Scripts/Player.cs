@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace GameManager{
     public class Player : MonoBehaviour
@@ -18,11 +19,12 @@ namespace GameManager{
 
         [SerializeField] private Vector2 MinMaxX;
 
+        [SerializeField]AudioSource audioSource;
+
         private void Awake()
         {
             joystick = GameObject.Find("Floating Joystick").GetComponent<Joystick>();
             
-            Debug.Log(joystick == null);
             coinsTxt = GameObject.Find("coinsTxt").GetComponent<TextMeshProUGUI>();
             _rb = GetComponent<Rigidbody>();
             coinsTxt.text = Savings.savedObject.coins.ToString();
@@ -41,7 +43,12 @@ namespace GameManager{
             if (other.gameObject.CompareTag("Coin"))
             {
                 Destroy(other.transform.root.gameObject);
+                audioSource.Play();
                 coinsTxt.text = (++Savings.savedObject.coins).ToString();
+            }
+            else if (other.gameObject.CompareTag("Engel"))
+            {
+                SceneManager.LoadScene("GameOverScene");
             }
         }
     }

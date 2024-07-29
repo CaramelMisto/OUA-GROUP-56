@@ -8,27 +8,34 @@ namespace GameManager{
 
     public class ScoreScript : MonoBehaviour
     {
-        [SerializeField] float ScoreSpeed = 4;
+        [SerializeField] float ScoreSpeed = 6;
         private int scorePoints = 0;
+        private int hardnessInterval = 10;
         [SerializeField] TextMeshProUGUI scoreTxt;
             
         void Start()
         {
             InvokeRepeating("InstantiatePrefab", 0f, 1 / ScoreSpeed);
+            InvokeRepeating("IncreaseHardness", hardnessInterval, hardnessInterval);
         }
 
         void InstantiatePrefab()
         {
             scoreTxt.text = (scorePoints++).ToString();
-            if (scorePoints >= 100 && scorePoints % 50 == 0 && Time.timeScale < 2)
+        }
+
+        void IncreaseHardness()
+        {
+            if (Time.timeScale < 1.5)
             {
                 Time.timeScale += 0.1f;
             }
-            else if(Time.timeScale == 2 && Engel_Olusturucu.engelZamani>3.5f)
+            else if (Savings.savedObject.engelZamani > 3f)
             {
-                Engel_Olusturucu.engelZamani -= 0.1f;
+                Savings.savedObject.engelZamani -= 0.1f;
             }
         }
+
         void OnDestroy()
         {
             SaveHighScore();

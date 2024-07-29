@@ -19,17 +19,4 @@ public class Engel : MonoBehaviour
         transform.position += new Vector3(0, 0, moveSpeed * -1) * Time.deltaTime;
 
     }
-
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.gameObject.CompareTag("Player")) 
-        { 
-            LoadGameOverScene();
-        }
-    }
-
-    private void LoadGameOverScene()
-    {
-        SceneManager.LoadScene("GameOverScene");
-    }
 }

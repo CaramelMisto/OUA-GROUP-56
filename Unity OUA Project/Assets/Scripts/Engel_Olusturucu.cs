@@ -9,22 +9,19 @@ namespace GameManager{
         public GameObject HareketliEngel;
         public GameObject Coin;
 
-        public static float engelZamani;
-
         private float timer;
 
         private int createCoin = 0;
 
         private void Start()
         {
-            engelZamani = Savings.savedObject.engelZamani;
             InstantiatePrefab();
         }
         void Update()
         {
             timer += Time.deltaTime;
 
-            if (timer >= engelZamani/3)
+            if (timer >= Savings.savedObject.engelZamani / 3)
             {
                 InstantiatePrefab();
                 createCoin++;
