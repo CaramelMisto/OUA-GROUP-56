@@ -32,6 +32,9 @@ namespace GameManager{
 
         private void Update()
         {
+            if (Time.timeScale == 0)
+                return;
+
             transform.position = new Vector3(Mathf.Clamp(transform.position.x, MinMaxX.x, MinMaxX.y), transform.position.y, transform.position.z);
             _rb.velocity = new Vector3(joystick.Horizontal * leftRightSpeed * Time.deltaTime /Time.timeScale, _rb.velocity.y, 0);
 
