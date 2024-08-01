@@ -138,7 +138,8 @@
   <img src="https://github.com/user-attachments/assets/2b48fdf4-bfbe-4bc1-9b78-ff861304a3e3" width="auto">
   <img src="https://github.com/user-attachments/assets/5bfa5712-2c82-4d15-80e2-1730aaaa29e7" width="auto">
   <img src="https://github.com/user-attachments/assets/676491b2-3239-4912-9916-3bbde460fea7" width="auto">
-  <img src="https://github.com/user-attachments/assets/e8f682ce-9fda-4e81-9e75-2d572acd6025" width="auto">   <img src="https://github.com/user-attachments/assets/bb5001dc-d910-4311-b19f-503788acd40b" width="auto">
+  <img src="https://github.com/user-attachments/assets/e8f682ce-9fda-4e81-9e75-2d572acd6025" width="auto">   
+  <img src="https://github.com/user-attachments/assets/bb5001dc-d910-4311-b19f-503788acd40b" width="auto">
   <img src="https://github.com/user-attachments/assets/80abf823-c1a7-4c27-9872-7e32754a1210" width="auto">
   <img src="https://github.com/user-attachments/assets/3e1da7e7-a861-482a-ab84-dc5541c6441e" width="auto">
   <img src="https://github.com/user-attachments/assets/778a0af6-6d40-4e8e-9cbc-367a4a377b39" width="auto">
@@ -154,6 +155,10 @@
     <span style="color: #777777;">Ürün Görselleri</span>
     <img src="https://github.com/user-attachments/assets/e12a01d0-d07b-4748-b60a-7a2b2e920fa7"= width="auto">
     <video controls source src="https://github.com/user-attachments/assets/e140c897-307c-48c2-bdcd-02f84bba6f1d"</video>
+  </li>
+      <li>
+    <strong style="color: #000000;">Final video: </strong>
+    <span style="color: #777777;">https://youtu.be/5G4Zkq_PTBg</span>
   </li>
      <li>
     <strong style="color: #000000;">Sprint Review:</strong>
