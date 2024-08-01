@@ -17,7 +17,7 @@
 <p><i><a href="https://miro.com/app/board/uXjVK4sysVc=">https://miro.com/app/board/uXjVK4sysVc=</a></i></p>
 
 <h2>Oyun Açıklaması</h2>
-<p><i>İntikam göreviniz başladı! Cosmic Vengeance, uzayın derinliklerinde geçen ve oyuncuları heyecan dolu bir maceraya sürükleyen bilim kurgu aksiyon oyunudur. Bu epik serüvende oyuncular, karanlık güçler tarafından kaçırılan Rex adlı köpeğini kurtarmak için yolculuğa çıkan cesur bir yıldız savaşçısının rolünü üstlenirler. Bu yolculukta yıldız savaşçımız kazandığı her zaferle giderek gücünü arttırır ve bir sonraki aşamaya geçerek hedefine ulaşır.</i></p>
+<p><i>Uzayın derinliklerinde altın avına çıkmaya hazır mısın?  Cosmic Vengeance, uzayın derinliklerinde geçen ve oyuncuları heyecan dolu bir maceraya sürükleyen bilim kurgu aksiyon oyunudur. Bu epik serüvende oyuncular, engin boşlukta süzülen astronot, uzayın gizemli ve tehlikeli yollarında ilerlerken, parlayan altın paraların peşine düşüyor. Ancak dikkatli olmalı, çünkü her bir köşede beklenmedik engeller ve tuzaklar var. Astronotumuzun çevikliğini ve zekasını kullanarak bu engelleri aşmalı ve altınları toplamalı. Astronotumuzun yanında yer al ve yıldızların arasında destanını yaz!</i></p>
 
 <h2>Oyun Özellikleri</h2>
 <ul>
@@ -119,4 +119,50 @@
   </li>
 </ul>
 
-
+<h2>SPRINT 3</h2>
+<ul>
+  <li>
+    <strong style="color: #000000;">Sprint Notları:</strong>
+    <span style="color: #777777;">Bu siprintte oyunun tüm mekanizmaları ve dizaynın tamamlanarak projenin bitirilmesi amaçlanmıştır.</span>
+  </li>
+  <li>
+    <strong style="color: #000000;">Sprint İçinde Tamamlanması Tahmin Edilen Puan:</strong>
+    <span style="color: #777777;">10 Puan</span>
+    <span style="color: #777777;">Puanlama mantığını tamamlananması planan görevler üzerinden planladık. Görevlerin tümü yapıldı.</span>
+  </li>
+  <li><strong style="color: #000000;">Daily Scrum:</strong>
+    <span style="color: #777777;">Daily Scrum toplantıları için whatsapp kullanıldı. Günlük yapılacak işler ve oyun için alınan kararlar tartışıldı. Oyun yapısı için yazılım kısmında yöntemler konuşuldu. Proje üstünde fikirler üretilerek herkes kendi fikirlerini söyledi. Fikirler içinden ortak kararla bir projede buluşuldu. Source tree yapısının kullanımının kolaylığı konuşuldu.Oyun Mobil üzerinde uygulanacağından sağ sol mekanizması tartışıldı. Ana karakter ikonu ve kötü karakter ikonları oluşturuldu. Gökyüzü ve koşu pisti şekillendi.</span> </li>
+  <li>  
+  <strong style="color: #000000;">Toplantı ve Whatsapp Görüntüleri:</strong>
+  <img src="" width="auto">
+  <img src="" width="auto">
+  <img src="" width="auto">
+  <img src="" width="auto">
+  <img src="" width="auto">  
+</li>
+   <li>
+    <strong style="color: #000000;">Sprint 3 Board Güncellemesi:</strong>
+    <span style="color: #777777;">Sprint 3 Board Görüntüsü</span>
+    <img src="" width="auto">  
+  </li>
+  <li>
+    <strong style="color: #000000;">Proje Durumu:</strong>
+    <span style="color: #777777;">Ürün Görselleri</span>
+    <img src=""= width="auto">
+    <img src=""width="auto">  
+    <video controls source src=""</video>
+  </li>
+     <li>
+    <strong style="color: #000000;">Sprint Review:</strong>
+    <span style="color: #777777;"> Sprint 3 sonucunda takımla oyunun tamamlanarak projenin bittişi hakkında konuşuldu. Üyeler birbirini tebrik etti.</span>
+    <span style="color: #777777;"> Tamamlanması gereken backlog 25 puanı tamamlanmıştır.</span>  
+    <li><span style="color: #777777;">Katılımcılar: Ayça Akbel Ertaş, Ahmetcan Selek, Aleyna Kara, Alaaddin Gürsoy, Aslıhan Nar</span></li>   
+  </li>
+   </li>
+     <li>
+    <strong style="color: #000000;">Sprint Retrospective:</strong>
+    <span style="color: #777777;"> Oyunda astronotumuzun amacı arkadaşını düşmanlardan kurtarıp zafere ulaşmasıydı ancak amaç altın para toplayarak en yüksek skor elde edilmesi olarak kararlaştırıldı.  </span>
+    <li><span style="color: #777777;">Oyunda karakter seçim fırsatı sunuldu.</span></li> 
+    <li><span style="color: #777777;">Oyun tamamlanarak proje teslimi yapıldı.</span></li> 
+  </li>
+</ul>
