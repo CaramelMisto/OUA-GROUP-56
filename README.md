@@ -160,6 +160,15 @@
     <strong style="color: #000000;">Final video: </strong>
     <span style="color: #777777;">https://youtu.be/5G4Zkq_PTBg</span>
   </li>
+      <li>
+    <strong style="color: #000000;">Oyun için kullanılan kaynaklar:</strong>
+    <span style="color: #777777;">Absolutely Free Music -https://assetstore.unity.com/packages/audio/music/absolutely-free-music-4883</span>
+    <span style="color: #777777;">Awesome Game UI Pack, Button Pack and Icon pack 17 - ***</span>
+    <span style="color: #777777;">Stylized Astronaut - https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/stylized-astronaut-114298 </span>
+    <span style="color: #777777;">Outdoor Ground Textures - https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555</span>
+    <span style="color: #777777;">Joystick Pack - https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631</span>
+    <span style="color: #777777;">FREE Casual Game SFX Pack- https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116 </span>   
+  </li>
      <li>
     <strong style="color: #000000;">Sprint Review:</strong>
     <span style="color: #777777;"> Sprint 3 sonucunda takımla oyunun tamamlanarak projenin bittişi hakkında konuşuldu. Üyeler birbirini tebrik etti.</span>
