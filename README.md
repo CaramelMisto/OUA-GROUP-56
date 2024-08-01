@@ -147,7 +147,7 @@
    <li>
     <strong style="color: #000000;">Sprint 3 Board Güncellemesi:</strong>
     <span style="color: #777777;">Sprint 3 Board Görüntüsü</span>
-    <img src="" width="auto">  
+    <img src="https://github.com/user-attachments/assets/e9c5d89e-1a60-493c-8f4d-9ec3ee58a0b1" width="auto">  
   </li>
   <li>
     <strong style="color: #000000;">Proje Durumu:</strong>
