@@ -153,7 +153,6 @@
     <strong style="color: #000000;">Proje Durumu:</strong>
     <span style="color: #777777;">Ürün Görselleri</span>
     <img src="https://github.com/user-attachments/assets/e12a01d0-d07b-4748-b60a-7a2b2e920fa7"= width="auto">
-    
     <video controls source src="https://github.com/user-attachments/assets/e140c897-307c-48c2-bdcd-02f84bba6f1d"</video>
   </li>
      <li>
