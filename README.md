@@ -131,14 +131,18 @@
     <span style="color: #777777;">Puanlama mantığını tamamlananması planan görevler üzerinden planladık. Görevlerin tümü yapıldı.</span>
   </li>
   <li><strong style="color: #000000;">Daily Scrum:</strong>
-    <span style="color: #777777;">Daily Scrum toplantıları için whatsapp kullanıldı. Günlük yapılacak işler ve oyun için alınan kararlar tartışıldı. Oyun yapısı için yazılım kısmında yöntemler konuşuldu. Proje üstünde fikirler üretilerek herkes kendi fikirlerini söyledi. Fikirler içinden ortak kararla bir projede buluşuldu. Source tree yapısının kullanımının kolaylığı konuşuldu.Oyun Mobil üzerinde uygulanacağından sağ sol mekanizması tartışıldı. Ana karakter ikonu ve kötü karakter ikonları oluşturuldu. Gökyüzü ve koşu pisti şekillendi.</span> </li>
+    <span style="color: #777777;">Daily Scrum toplantıları için whatsapp kullanıldı. Günlük yapılacak işler ve oyun için alınan kararlar tartışıldı. Oyunda amaç değişimine gidildi. Atronot karakterinde seçim özelliği oluşturuldu.Duvar ve playforma texture eklendi. Entry ekranına ıdle character animasyonu eklendi.Pause menüsü eklendi.</span> </li>
   <li>  
   <strong style="color: #000000;">Toplantı ve Whatsapp Görüntüleri:</strong>
-  <img src="" width="auto">
-  <img src="" width="auto">
-  <img src="" width="auto">
-  <img src="" width="auto">
-  <img src="" width="auto">  
+  <img src="https://github.com/user-attachments/assets/eb517445-c939-49f4-ad80-d83e21d938de" width="auto">
+  <img src="https://github.com/user-attachments/assets/2b48fdf4-bfbe-4bc1-9b78-ff861304a3e3" width="auto">
+  <img src="https://github.com/user-attachments/assets/5bfa5712-2c82-4d15-80e2-1730aaaa29e7" width="auto">
+  <img src="https://github.com/user-attachments/assets/676491b2-3239-4912-9916-3bbde460fea7" width="auto">
+  <img src="https://github.com/user-attachments/assets/e8f682ce-9fda-4e81-9e75-2d572acd6025" width="auto">   <img src="https://github.com/user-attachments/assets/bb5001dc-d910-4311-b19f-503788acd40b" width="auto">
+  <img src="https://github.com/user-attachments/assets/80abf823-c1a7-4c27-9872-7e32754a1210" width="auto">
+  <img src="https://github.com/user-attachments/assets/3e1da7e7-a861-482a-ab84-dc5541c6441e" width="auto">
+  <img src="https://github.com/user-attachments/assets/778a0af6-6d40-4e8e-9cbc-367a4a377b39" width="auto">
+  <img src="https://github.com/user-attachments/assets/62836473-c179-4fa0-a4df-b5956db74e45" width="auto">
 </li>
    <li>
     <strong style="color: #000000;">Sprint 3 Board Güncellemesi:</strong>
