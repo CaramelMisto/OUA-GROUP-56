@@ -1,5 +1,4 @@
-<h2>Takım İsmi</h2>
-<p><i>U56 UNITY Takımı</i></p>
+
 <h2>Takım İsmi</h2>
 <p><i>U56 UNITY Takımı</i></p>
 
