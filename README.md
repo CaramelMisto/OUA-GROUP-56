@@ -32,6 +32,11 @@
   <li><i>Mobil oyuncuları</i></li>
 </ul>
 
+<h2>Oyunun Youtube Videosu</h2>
+<video controls source src="https://youtu.be/5G4Zkq_PTBg"</video>
+
+</ul>
+
 <h2>SPRINT 1</h2>
 <ul>
   <li><i>Sprint içi puan değerlendirmesi :Proje boyunca tamamlanması gereken backlog puanı 25'dir. İlk Sprint için bitirilmesi istenilen puan sayısı 5 olarak belirlenmiştir ve hedefe ulaşılmıştır. </i></li>
